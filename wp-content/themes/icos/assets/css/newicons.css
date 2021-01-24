@@ -1,0 +1,11 @@
+@font-face {font-family: Ikon-Crypto;src: url("../fonts/Ikon-Crypto.ttf?ls09ko") format("truetype"),url("../fonts/Ikon-Crypto.woff?ls09ko") format("woff"),url("../fonts/Ikon-Crypto.svg?ls09ko#Ikon-Crypto") format("svg");font-weight: 400;font-style: normal;}
+.ikon {font-family: Ikon-Crypto !important;speak: none;font-style: normal;font-weight: 400;font-variant: normal;text-transform: none;line-height: 1;-webkit-font-smoothing: antialiased;-moz-osx-font-smoothing: grayscale;}
+.ikon-shiled:before {content: "";}
+.ikon-shiled-alt:before {content: "";}
+.ikon-id-card:before {content: "";}
+.ikon-paricle:before {content: "";}
+.ikon-paricle-alt:before {content: "";}
+.ikon-target:before {content: "";}
+.ikon-connect:before {content: "";}
+.ikon-user:before {content: "";}
+.ikon-data-server:before {content: "";}
